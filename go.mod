@@ -10,7 +10,7 @@ require (
 	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
 	golang.zx2c4.com/wireguard v0.0.0-20211116201604-de7c702ace45
 	inet.af/netaddr v0.0.0-20211027220019-c74959edd3b6
-	tailscale.com v1.1.1-0.20220121202700-0ada42684b51
+	tailscale.com v1.1.1-0.20220220002258-d19a63ddf631
 )
 
 require (
@@ -20,7 +20,10 @@ require (
 	github.com/akavel/rsrc v0.10.1 // indirect
 	github.com/akutz/memconn v0.1.0 // indirect
 	github.com/alexbrainman/sspi v0.0.0-20210105120005-909beea2cc74 // indirect
+	github.com/anmitsu/go-shlex v0.0.0-20200514113438-38f4b401e2be // indirect
 	github.com/coreos/go-iptables v0.6.0 // indirect
+	github.com/creack/pty v1.1.17 // indirect
+	github.com/gliderlabs/ssh v0.3.3 // indirect
 	github.com/go-ole/go-ole v1.2.6 // indirect
 	github.com/godbus/dbus/v5 v5.0.6 // indirect
 	github.com/golang/groupcache v0.0.0-20210331224755-41bb18bfe9da // indirect
@@ -57,6 +60,7 @@ require (
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20211104114900-415007cec224 // indirect
 	golang.zx2c4.com/wireguard/windows v0.4.10 // indirect
+	gvisor.dev/gvisor v0.0.0-20220126021142-d8aa030b2591 // indirect
 	honnef.co/go/tools v0.2.2 // indirect
 	inet.af/netstack v0.0.0-20211120045802-8aa80cf23d3c // indirect
 	nhooyr.io/websocket v1.8.7 // indirect
